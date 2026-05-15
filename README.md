@@ -1,5 +1,5 @@
 # Ola! Eu sou Daniel Dias
-Estudante de Ciencia da Computacao - 1o Semestre
+Estudante de Ciencia da Computacao - 1º Semestre
 Apaixonado por tecnologia e desenvolvimento de software
 ---
 ## Meus Projetos
@@ -14,7 +14,7 @@ Pagina web de portfolio pessoal hospedada no GitHub Pages.
 - Python
 - HTML/CSS
 - Git e GitHub
-## Contato## 
+## Contato
 - LinkedIn: (https://www.linkedin.com/in/daniel-dias-0967933aa/?skipRedirect=true)
 - Email: dandiasz30@gmail.com
 ---
